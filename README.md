@@ -1,3 +1,8 @@
+Question :
+```
+Gunakan parser.py untuk membuat parser format inputan yang berbeda antara satu agent dengan agent lainnya
+```
+
 Story :
 ```
 Kita adalah perusahaan agregator, terdapat 3 agent yang akan bekerja sama dengan kita, sebagai agregator, kita akan menerima inputan dari agent, lalu akan kita jadikan satu format yang sama untuk bisa diproses. 
