@@ -44,4 +44,4 @@ referensi :
 - https://docs.python.org/2/library/xml.etree.elementtree.html
 - https://www.w3schools.com/python/ref_string_split.asp
 - https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b
-- https://code.sololearn.com/cOAXyhEmN1f7
+- https://code.sololearn.com/cxdsQ1TlBPm7#py
